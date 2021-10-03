@@ -1,0 +1,10 @@
+Package: netskao.ccpower
+Version: 1.8-8
+Section: Netskao-Tweaks
+Maintainer: Nets
+Depends: firmware (>= 11.0), mobilesubstrate, com.opa334.ccsupport (>= 1.3)
+Architecture: iphoneos-arm
+Installed-Size: 476
+Name: CCPower
+Author: Netskao
+Description: 通过控制中心快捷关机，重启，注销，软重启，安全模式，重建桌面，重启用户空间，所有操作均有二次确定，显示电池健康百分比，显示电池循环次数，显示运行时间，显示设备总空间和可用空间，显示设备总运存和可用运存，可选点击窗口外关闭，可选锁屏时允许唤出，支持iOS11-14，在控制中心设置页面可设置需要显示的功能
